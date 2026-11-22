@@ -1,8 +1,8 @@
 # SOLMAR — Open-World Crime Game
 
 [![make.fun](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
-[![rank](https://make.fun/badge/gta6-01/Brackenzig/gta6-01/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
-[![reward](https://make.fun/badge/gta6-01/Brackenzig/gta6-01/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Brackenzig/gta6-02/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Brackenzig/gta6-02/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 An open-world crime game on the sun-soaked coast. Solmar is an 8×8 coastal city — downtown towers, old-town streets, a beach and a marina — with traffic, pedestrians, cars to steal and drive, a five-star wanted level with pursuing police, four story jobs for fixer Mara Voss, combat, cash pickups, ranks, a live minimap and synthesised sound. The city, characters, vehicles and story are all original.
 
